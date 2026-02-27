@@ -2,7 +2,7 @@
 
 ## Project context
 This project was developed as part of the **Application Designer & Developer (React-oriented)** training program by OpenClassrooms.  
-It is the third front-end project of the curriculum and focuses on dynamic, interactive JavaScript applications.
+It's a front-end project of the curriculum and focuses on dynamic, interactive JavaScript applications.
 
 The objective was to build a playable game using JavaScript, manipulating the DOM and implementing game logic while respecting design and UX requirements.
 
